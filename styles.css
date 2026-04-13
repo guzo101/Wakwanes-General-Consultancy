@@ -25,7 +25,7 @@
   --logo-name: var(--brand-grey);
   --logo-sub: #717171;
   /* Single asset + crop for every group photo use (hero img + background panels) */
-  --group-photo-url: url("./assets/NewGroupPic.svg");
+  --group-photo-url: url("./assets/groupPic.png");
   --group-photo-pos: left 44%;
   --group-photo-bg-zoom: 132%;
 }
