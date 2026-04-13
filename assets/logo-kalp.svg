@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 224 52" width="224" height="52" role="img" aria-labelledby="kalpLogoTitle">
+  <title id="kalpLogoTitle">KALP  Kamwi Andeleki Legal Practitioners</title>
+  <!-- Brand navy from firm logo reference (~#00004b) -->
+  <rect width="224" height="52" rx="6" fill="#00004b"/>
+  <!-- KALP: bold italic sans (matches screenshot treatment) -->
+  <text
+    x="16"
+    y="37"
+    font-family="Arial Black, Helvetica Neue, Helvetica, Arial, sans-serif"
+    font-size="31"
+    font-style="italic"
+    font-weight="800"
+    fill="#ffffff"
+    letter-spacing="0.04em"
+  >KALP</text>
+  <!-- Scales of justice: white silhouette, balanced pans, three lines per side -->
+  <g fill="#ffffff" transform="translate(134, 8)">
+    <!-- Top finial -->
+    <rect x="18.5" y="0" width="7" height="5" rx="2.5"/>
+    <!-- Central pillar (between pans) -->
+    <rect x="20" y="4" width="4" height="30" rx="1"/>
+    <!-- Crossbeam -->
+    <rect x="2" y="12" width="40" height="3.5" rx="0.75"/>
+    <!-- Left strings -->
+    <rect x="5" y="15.5" width="1.4" height="11"/>
+    <rect x="8.8" y="15.5" width="1.4" height="11"/>
+    <rect x="12.6" y="15.5" width="1.4" height="11"/>
+    <!-- Right strings -->
+    <rect x="26" y="15.5" width="1.4" height="11"/>
+    <rect x="29.8" y="15.5" width="1.4" height="11"/>
+    <rect x="33.6" y="15.5" width="1.4" height="11"/>
+    <!-- Pans (bowls), cleared of pillar -->
+    <ellipse cx="10" cy="30.5" rx="8.5" ry="4.8"/>
+    <ellipse cx="32" cy="30.5" rx="8.5" ry="4.8"/>
+  </g>
+</svg>
